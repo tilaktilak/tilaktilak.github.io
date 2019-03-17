@@ -1,7 +1,7 @@
 # My personal projects
  
 
-### [ <img src="https://cdn1.iconfinder.com/data/icons/alcohol-drinks-1/128/Drinks-55-2-128.png" width="48"> Inebriator - A cocktail machine](http://tilaktilak.github.io/Inebriator/)
+### [ <img src="https://image.flaticon.com/icons/svg/1553/1553738.svg" width="48"> Inebriator - A cocktail machine](http://tilaktilak.github.io/Inebriator/)
 
 ### [ <img src="https://image.flaticon.com/icons/svg/283/283098.svg" width="48"> Xcvario - Variometer/GPS module for XCSoard glide computer](https://tilaktilak.github.io/xcvario/)
 ### [ <img src="https://image.flaticon.com/icons/svg/805/805538.svg" width="48"> Variometer - An arduino based paragliding gps variometer](http://tilaktilak.github.io/Variometre/)
